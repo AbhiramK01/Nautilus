@@ -1,4 +1,4 @@
-<h>Nautilus - An efficient and dynamic ship routing algorithm prototype developed as a part of SIH 2024.</h>
+<h1>Nautilus - An efficient and dynamic ship routing algorithm prototype developed as a part of SIH 2024.</h1>
 
 Problem Statement ID	- 1658
 Problem Statement Title	- Development of a versatile and fast algorithm for the optimal ship routing
@@ -15,7 +15,7 @@ Most of the goods are transported around the world by shipping which relies heav
 
 Expected Solution: Identification of a versatile optimization method and development of a reasonably fast algorithm, preferably written in an open-source programming language such as Python
 
-<h1>Working proof of the application:</h1>
+<h2>Working proof of the application:</h2>
 <br>
 <img src="https://github.com/user-attachments/assets/55b300a4-8f5e-4138-a9f5-3270dbd021cb" width=75% height=75%>
 <br>
