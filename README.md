@@ -17,14 +17,12 @@ Expected Solution: Identification of a versatile optimization method and develop
 
 <h1>Working proof of the application:</h1>
 <br>
-<br>
 <img src="https://github.com/user-attachments/assets/55b300a4-8f5e-4138-a9f5-3270dbd021cb" width=75% height=75%>
 <br>
 <br>
 
 
 Simple user interface for testing and choosing source and destination ports:
-<br>
 <br>
 <img src="https://github.com/user-attachments/assets/5fa3eb5d-970c-49a2-b3cd-711acaaf16d1" width=75% height=75%>
 <br>
@@ -33,14 +31,12 @@ Simple user interface for testing and choosing source and destination ports:
 
 Information of different weather factors at every point:
 <br>
-<br>
 <img src="https://github.com/user-attachments/assets/1c6c1bb8-8fe4-4a6e-a796-42a465c154f3" width=75% height=75%>
 <br>
 <br>
 
 
 Proof of long distance travels:
-<br>
 <br>
 <img src="https://github.com/user-attachments/assets/5f19439d-3187-44c7-8c2b-3fc5e3ab1a88" width=75% height=75%>
 <br>
@@ -64,7 +60,6 @@ Step 2: Make the following changes-<br>
         In file app.py, change the following path location on line mentioned below to your respective system path location of the file:<br>
           line 50: script_path = 'C:\\Users\\abhir\\OneDrive\\Desktop\\Nautilus\\pathfinding.py'<br><br><br>
 Step 3: Run two files simultaneously on your system on two terminals as shown below and navigate to the following URL: http://127.0.0.1:5000/
-<br>
 <br>
 <img src="https://github.com/user-attachments/assets/df1af75c-dfa7-4d1e-9590-9c9537b12e6f" width=75% height=75%>
 <br>
