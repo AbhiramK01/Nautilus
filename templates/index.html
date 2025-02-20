@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Source and Destination Ports</title>
+</head>
+<body>
+    <h1>Select Source and Destination Ports</h1>
+    <form action="/set_route" method="post">
+        <label for="source">Source Port:</label>
+        <select id="source" name="source" required>
+            {% for port in ports %}
+                <option value="{{ port }}">{{ port }}</option>
+            {% endfor %}
+        </select>
+        
+        <label for="destination">Destination Port:</label>
+        <select id="destination" name="destination" required>
+            {% for port in ports %}
+                <option value="{{ port }}">{{ port }}</option>
+            {% endfor %}
+        </select>
+        
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
